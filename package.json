@@ -1,0 +1,24 @@
+{
+  "name": "outusi1",
+  "version": "1.0.0",
+  "description": "欧图斯web端网站展示页面",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eva1963/OutusiMac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eva1963/OutusiMac/issues"
+  },
+  "homepage": "https://github.com/eva1963/OutusiMac#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0"
+  }
+}
